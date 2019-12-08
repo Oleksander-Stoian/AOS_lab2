@@ -1,0 +1,4 @@
+mov 1 -45682
+mov 2 85495
+left 1 5
+right 2 5

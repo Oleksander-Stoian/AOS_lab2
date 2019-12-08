@@ -1,0 +1,4 @@
+﻿  register.cpp
+D:\Programing\code\lab_aos_2\lab_aos_2\register.cpp(222,33): warning C4101: ex: неиспользованная локальная переменная
+D:\Programing\code\lab_aos_2\lab_aos_2\register.cpp(255,37): warning C4101: ex: неиспользованная локальная переменная
+  lab_aos_2.vcxproj -> D:\Programing\code\lab_aos_2\Debug\lab_aos_2.exe
